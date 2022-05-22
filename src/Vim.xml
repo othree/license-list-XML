@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Vim" name="Vim License">
       <crossRefs>
-         <crossRef>http://vimdoc.sourceforge.net/htmldoc/uganda.html</crossRef>
+         <crossRef>https://vimhelp.org/uganda.txt.html#uganda.txt</crossRef>
       </crossRefs>
     <text>
       <titleText>
